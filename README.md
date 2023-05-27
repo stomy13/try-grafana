@@ -1,0 +1,2 @@
+- DataSource HTTP URL : http://try-grafana-prometheus-1:9090
+- dashboard_id : 1860
